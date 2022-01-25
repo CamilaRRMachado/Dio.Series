@@ -1,0 +1,5 @@
+C:\Users\DellUser\Desktop\DIO LOCALIZA LABS\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\DellUser\Desktop\DIO LOCALIZA LABS\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DellUser\Desktop\DIO LOCALIZA LABS\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\DellUser\Desktop\DIO LOCALIZA LABS\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+C:\Users\DellUser\Desktop\DIO LOCALIZA LABS\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
